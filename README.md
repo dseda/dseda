@@ -1,5 +1,7 @@
 ### Hi there 👋  I'm Seda Demir - based in London :gb: 
 
+---
+
  I’m currently working on something cool 😉
 
 🌱  I’m currently learning React
