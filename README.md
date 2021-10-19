@@ -6,7 +6,7 @@
 
 📫  How to reach me: sedademirgf@gmail.com
 
-👨‍💻  Read more about my projects at [See my portfolio](https://seda.github.io/)
+👨‍💻  Read more about my projects at [My Portfolio](https://seda.github.io/)
 
 😄 Pronouns: She/Her
 
