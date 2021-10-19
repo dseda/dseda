@@ -1,14 +1,14 @@
 ### Hi there 👋  I'm Seda Demir - based in London :gb: 
 
- - I’m currently working on something cool 😉
+ I’m currently working on something cool 😉
 
--  🌱  I’m currently learning React
+🌱  I’m currently learning React
 
--  📫  How to reach me: sedademirgf@gmail.com
+📫  How to reach me: sedademirgf@gmail.com
 
--  👨‍💻  Read more about my projects at [See my portfolio](https://seda.github.io/)
+👨‍💻  Read more about my projects at [See my portfolio](https://seda.github.io/)
 
--  😄 Pronouns: She/Her
+😄 Pronouns: She/Her
 
 
 <!--
