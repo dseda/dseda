@@ -8,9 +8,9 @@
 
 📫  How to reach me: sedademirgf@gmail.com
 
-👨‍💻  Read more about my projects at [My Portfolio](https://seda.github.io/)
+<!-- 👨‍💻  Read more about my projects at [My Portfolio](https://seda.github.io/) -->
 
-😄 Pronouns: She/Her
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dseda) 
