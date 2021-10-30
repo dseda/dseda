@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Seda Demir - based in London :gb: 
+### Hi there 👋  I'm Seda Demir - currently based in London :gb: 
 
 ---
 
