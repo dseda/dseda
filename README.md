@@ -8,6 +8,11 @@
 
 📫  How to reach me: sedademirgf@gmail.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/seda-d-02743b185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sedademir" height="30" width="40" /></a>
+</p>
+
 <!-- 👨‍💻  Read more about my projects at [My Portfolio](https://seda.github.io/) -->
 
 
