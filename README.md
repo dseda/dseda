@@ -4,7 +4,9 @@
 
  I’m currently working on something cool 😉
 
-🌱  I’m currently learning React
+🌱  I’m currently learning React Router
+
+👩‍💻 Read more about my projects at [My Portfolio](https://seda.github.io/) 
 
 📫  How to reach me: sedademirgf@gmail.com
 
@@ -13,12 +15,6 @@
 <a href="https://www.linkedin.com/in/seda-d-02743b185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sedademir" height="30" width="40" /></a>
 </p>
 
-<!-- 👨‍💻  Read more about my projects at [My Portfolio](https://seda.github.io/) -->
-
-
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dseda) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dseda&theme=tokyonight)
 
