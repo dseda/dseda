@@ -4,7 +4,7 @@
 
  I’m currently working on something cool 😉
 
-🌱  I’m currently learning React Router
+🌱  I’m currently learning React Context API
 
 👩‍💻 Read more about my projects at [My Portfolio](https://dseda.github.io/portfolio/) 
 
