@@ -6,7 +6,7 @@
 
 🌱  I’m currently learning React Router
 
-👩‍💻 Read more about my projects at [My Portfolio](https://seda.github.io/) 
+👩‍💻 Read more about my projects at [My Portfolio](https://dseda.github.io/portfolio/) 
 
 📫  How to reach me: sedademirgf@gmail.com
 
